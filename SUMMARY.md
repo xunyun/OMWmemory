@@ -1,6 +1,6 @@
 # Summary
 
-* [序言](chapter00/preface.md)
+* [序言](chapter00/TheRoadToOMW.md)
 * [1 开智元范](chapter01/README.md)
   * [开智黑话](chapter01/note01.md)
   * [开智元范](chapter01/note02.md)
@@ -23,4 +23,3 @@
 * [附录：部落活动纪要](ps/note01s.md)
 * [致谢](ps/thanks.md)
 * [后记](end/postscript.md)
-
